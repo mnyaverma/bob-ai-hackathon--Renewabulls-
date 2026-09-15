@@ -7,7 +7,7 @@
 |---|---|
 | **Team Name** | [Renewabulls] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Khush Tailor] — [email@ibm.com] |
+| **Team Lead** | [Khush Tailor] — [pro670913@gmail.com] |
 | **Members** | [Manya Verma], [Khush Tailor], [ Netra Vyas], [Shourya]|
 
 ---

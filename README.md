@@ -8,20 +8,16 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [Renewabulls] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
 | **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Members** | [Manya Verma], [Khush Tailar], [ Netra Vyas], [Shourya]|
 
 ---
 
 ## 🎯 Problem Statement
+[Grid operators struggle to balance fluctuating electricity demand with variable solar and wind generation, causing grid instability and renewable-energy curtailment. They need timely, data-driven insights to predict demand spikes, detect renewable underperformance, and take the right balancing actions.]
 
-> In 2–3 sentences: What problem does your project solve? Who experiences this problem?
-
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
-
----
 
 ## 💡 Solution
 

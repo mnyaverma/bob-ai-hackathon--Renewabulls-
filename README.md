@@ -21,11 +21,11 @@
 [GridPulse is an AI-assisted grid optimisation system that forecasts electricity demand and renewable generation, detects grid anomalies, and simulates balancing actions. It helps operators make faster, data-driven decisions to maintain grid stability while maximising renewable-energy utilisation and reducing curtailment.]
 ## ✨ Key Features
 
-- **Feature 1:** [Demand Forecasting — Predicts short-term electricity demand using historical and real-time grid data.]
-- **Feature 2:** [Renewable Performance Monitoring — Compares expected vs. actual renewable generation to detect underperformance and energy losses.]
-- **Feature 3:** [Anomaly & Red-Flag Engine — Detects abnormal grid conditions and assigns severity levels for early risk warnings.]
-- **Feature 4:** [72-Hour What-If & Action Generator — Simulates grid-balancing actions and recommends the best option based on stability, cost, and renewable utilisation.]
-- **Feature 5:** [AI Operator Brief — Converts forecasts, anomalies, and optimisation results into clear, explainable next-step recommendation]
+- **Feature 1:** [⚡ Demand Forecasting — Predicts short-term electricity demand using historical and real-time grid data.]
+- **Feature 2:** [🌱 Renewable Performance Monitoring — Compares expected vs. actual renewable generation to detect underperformance and energy losses.]
+- **Feature 3:** [🚨 Anomaly & Red-Flag Engine — Detects abnormal grid conditions and assigns severity levels for early risk warnings.]
+- **Feature 4:** [☑️ 72-Hour What-If & Action Generator — Simulates grid-balancing actions and recommends the best option based on stability, cost, and renewable utilisation.]
+- **Feature 5:** [🤖 AI Operator Brief — Converts forecasts, anomalies, and optimisation results into clear, explainable next-step recommendation]
 
 ---
 

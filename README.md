@@ -8,7 +8,7 @@
 | **Team Name** | [Renewabulls] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
 | **Team Lead** | [Khush Tailor] — [email@ibm.com] |
-| **Members** | [Manya Verma], [Khush Tailar], [ Netra Vyas], [Shourya]|
+| **Members** | [Manya Verma], [Khush Tailor], [ Netra Vyas], [Shourya]|
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 💡 Solution
 
-GridPulse is an AI-assisted grid optimisation system that forecasts electricity demand and renewable generation, detects grid anomalies, and simulates balancing actions. It helps operators make faster, data-driven decisions to maintain grid stability while maximising renewable-energy utilisation and reducing curtailment.
+[GridPulse is an AI-assisted grid optimisation system that forecasts electricity demand and renewable generation, detects grid anomalies, and simulates balancing actions. It helps operators make faster, data-driven decisions to maintain grid stability while maximising renewable-energy utilisation and reducing curtailment.]
 ## ✨ Key Features
 
 - **Feature 1:** [Demand Forecasting — Predicts short-term electricity demand using historical and real-time grid data.]
